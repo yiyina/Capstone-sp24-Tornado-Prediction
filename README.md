@@ -3,10 +3,10 @@
 ## Project 1-minute video Youtube Link (Click the picture below)
 [![Video Preview](https://img.youtube.com/vi/nvD-xCUYdF4/0.jpg)](https://youtu.be/nvD-xCUYdF4?si=CT-KI1yFLQNKRjGo)
 
-## Poster
+### Poster
 ![Team 1_Poster_00](https://github.com/yiyina/Capstone-sp24-Tornado-Prediction/assets/55360195/b9bc51f2-b248-4ba6-9e0b-611b6af021f7)
 
-## Project Description - **Tornado Prediction**
+### Project Description - **Tornado Prediction**
 -   Background: We are exploring severe weather predictions and would like to explore **tornado** predictions.
 -   Goal: Predict tornado probability and intensity maps based on radar activity maps, satellite cloud maps, and weather maps (temperature, humidity, cloud, pressure, etc). 
 -   Research Objectives 
