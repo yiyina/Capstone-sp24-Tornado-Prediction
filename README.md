@@ -1,7 +1,7 @@
 # NEU CS7980 Capstone Project Tornado prediction- Team 1
 
 ## Project 1-minute video Youtube Link (Click the picture below)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nvD-xCUYdF4?si=fMuKlUfiXYuz-FiB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Video Preview](https://img.youtube.com/vi/CT-KI1yFLQNKRjGo/0.jpg)](https://youtu.be/nvD-xCUYdF4?si=CT-KI1yFLQNKRjGo)
 
 ## Poster
 ![Team 1_Poster_00](https://github.com/yiyina/Capstone-sp24-Tornado-Prediction/assets/55360195/b9bc51f2-b248-4ba6-9e0b-611b6af021f7)
